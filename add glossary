@@ -1,0 +1,14 @@
+touch glossary.md
+nano glossary.md
+# Glossary
+
+## Automation
+Using systems to reduce manual work.
+
+## Workflow
+A repeatable sequence of steps.
+
+## Prompt
+Structured input for AI models.
+git add glossary.md
+git commit -m "Add glossary of key terms"
