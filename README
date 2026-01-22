@@ -1,1 +1,8 @@
+touch README.md
+nano README.md
+# AI Tools & Automation Knowledge Base
+
+A curated collection of AI tools, workflows, and automation practices.
+git add README.md
+git commit -m "Add initial README"
 
