@@ -1,0 +1,8 @@
+touch automation/principles.md
+nano automation/principles.md
+## Automation Principles
+- Reduce manual work
+- Ensure quality control
+- Measure outcomes
+git add automation/principles.md
+git commit -m "Add automation principles"
