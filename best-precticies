@@ -5,3 +5,6 @@ nano best-practices/README.md
 Guidelines for using AI responsibly.
 git add best-practices
 git commit -m "Add best practices directory"
+nano best-practices/README.md
+git add best-practices/README.md
+git commit -m "Expand best practices documentation"
