@@ -15,4 +15,8 @@ This repository is actively updated with new tools and workflows.
 git add README.md
 git commit -m "Documentation polish and maintenance note"
 git push
+## Glossary
+Key terms are explained in glossary.md
+git add README.md
+git commit -m "Link glossary documentation"
 
