@@ -1,0 +1,7 @@
+## Structure
+- tools
+- automation
+- workflows
+- best-practices
+git add README.md
+git commit -m "Document repository structure"
