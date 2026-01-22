@@ -1,0 +1,8 @@
+touch tools/ai-writing.md
+nano tools/ai-writing.md
+## AI Writing Tools
+- ChatGPT
+- Claude
+- Gemini
+git add tools/ai-writing.md
+git commit -m "Add AI writing tools list"
