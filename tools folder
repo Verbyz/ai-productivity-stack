@@ -1,0 +1,8 @@
+mkdir tools
+touch tools/README.md
+nano tools/README.md
+# AI Tools
+
+Categorized list of useful AI tools.
+git add tools
+git commit -m "Add tools directory"
