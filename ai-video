@@ -1,0 +1,8 @@
+touch tools/ai-video.md
+nano tools/ai-video.md
+## AI Video Tools
+- Runway
+- Pika
+- Synthesia
+git add tools/ai-video.md
+git commit -m "Add AI video tools list"
