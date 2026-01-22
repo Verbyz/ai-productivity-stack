@@ -1,0 +1,9 @@
+touch workflows/marketing.md
+nano workflows/marketing.md
+## AI Marketing Workflow
+1. Research
+2. Content generation
+3. Review
+4. Distribution
+git add workflows/marketing.md
+git commit -m "Add AI marketing workflow"
