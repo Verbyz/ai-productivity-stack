@@ -1,0 +1,8 @@
+mkdir automation
+touch automation/README.md
+nano automation/README.md
+# Automation
+
+Automation patterns using AI tools.
+git add automation
+git commit -m "Add automation directory"
