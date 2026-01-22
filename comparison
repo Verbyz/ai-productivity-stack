@@ -1,0 +1,6 @@
+touch comparison.md
+nano comparison.md
+# Tool Comparison
+Comparison based on cost, ease of use, and flexibility.
+git add comparison.md
+git commit -m "Add AI tool comparison document"
