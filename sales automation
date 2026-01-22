@@ -1,0 +1,6 @@
+## Sales Automation
+- Outreach personalization
+- Follow-ups
+- CRM updates
+git add automation/content-automation.md
+git commit -m "Add sales automation patterns"
