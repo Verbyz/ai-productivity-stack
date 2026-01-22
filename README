@@ -5,4 +5,7 @@ nano README.md
 A curated collection of AI tools, workflows, and automation practices.
 git add README.md
 git commit -m "Add initial README"
+Each tool category includes practical use cases.
+git add tools/README.md
+git commit -m "Improve tools documentation"
 
