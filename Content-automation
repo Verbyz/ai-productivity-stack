@@ -1,0 +1,8 @@
+touch automation/content-automation.md
+nano automation/content-automation.md
+## Content Automation
+- Idea generation
+- Draft creation
+- Publishing
+git add automation/content-automation.md
+git commit -m "Add content automation overview"
