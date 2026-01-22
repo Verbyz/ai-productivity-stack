@@ -1,0 +1,8 @@
+touch security.md
+nano security.md
+# Security Considerations
+- Data privacy
+- API key management
+- Access control
+git add security.md
+git commit -m "Add security considerations"
