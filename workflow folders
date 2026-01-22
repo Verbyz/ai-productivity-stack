@@ -1,0 +1,7 @@
+mkdir workflows
+touch workflows/README.md
+nano workflows/README.md
+# Workflows
+Step-by-step AI-powered workflows.
+git add workflows
+git commit -m "Add workflows directory"
