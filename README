@@ -8,4 +8,7 @@ git commit -m "Add initial README"
 Each tool category includes practical use cases.
 git add tools/README.md
 git commit -m "Improve tools documentation"
+See automation folder for practical workflows.
+git add README.md
+git commit -m "Link automation documentation"
 
