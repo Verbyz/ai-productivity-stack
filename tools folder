@@ -6,3 +6,6 @@ nano tools/README.md
 Categorized list of useful AI tools.
 git add tools
 git commit -m "Add tools directory"
+- Use cases: ads, education, demos
+git add tools/ai-video.md
+git commit -m "Expand AI video tool use cases"
