@@ -1,0 +1,7 @@
+mkdir best-practices
+touch best-practices/README.md
+nano best-practices/README.md
+# Best Practices
+Guidelines for using AI responsibly.
+git add best-practices
+git commit -m "Add best practices directory"
